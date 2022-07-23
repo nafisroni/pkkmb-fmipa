@@ -1,25 +1,16 @@
-# **Absensi App**
+SHOUT OUT TO MUHAMMAD PAUZI
 
-Features
-- CRUD Positions (CRUD Jabatan/Posisi)
-- CRUD Users (Admin, Operator and Users (Employees))
-- CRUD Holidays (CRUD Hari Libur)
-- CRUD Attendances (Can have multiple attendances and can using only button or presence using QRCode)
-- Using Datatables (Powergrid livewire)
-- Can Export to Excel and CSV
-- and more...
-
-## How to install/use
+## Cara install
 
 -   Clone this repository
 
 ```sh
-git clone https://github.com/muhammadpauzi/absensi-app.git
+git clone https://github.com/nafisroni/pkkmb-fmipa.git
 # make sure you are in the folder
 cd absensi-app
 ```
 
--   Install all packages
+-   Install semua package
 
 ```sh
 composer install
@@ -49,6 +40,10 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
-
+```sh
+it's admin mail
+admin@gmail.com
+password
+```
 -   And go to http://localhost:8000/
 # pkkmb-fmipa
