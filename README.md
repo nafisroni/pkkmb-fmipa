@@ -1,5 +1,11 @@
 SHOUT OUT TO MUHAMMAD PAUZI
 
+TIM IT : 
+1. Muhammad Nafis Roni Wijaya
+2. Muhammad Nabiel
+3. Rara Dita Purnama Reta
+4. Maya Aulia Dwi
+
 ## Cara install
 
 -   Clone this repository
