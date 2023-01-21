@@ -2,7 +2,7 @@ SHOUT OUT TO MUHAMMAD PAUZI
 
 Collaborator : 
 1. Muhammad Nafis Roni Wijaya
-2. Muhammad Nabiel
+2. Mohammad Nabiel Dwi Ananda
 3. Rara Dita Purnama Reta
 4. Maya Aulia Dwi
 
