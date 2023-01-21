@@ -1,6 +1,6 @@
 SHOUT OUT TO MUHAMMAD PAUZI
 
-TIM IT : 
+Collaborator : 
 1. Muhammad Nafis Roni Wijaya
 2. Muhammad Nabiel
 3. Rara Dita Purnama Reta
