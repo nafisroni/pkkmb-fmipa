@@ -12,7 +12,7 @@ Collaborator :
 -   Clone this repository
 
 ```sh
-git clone https://github.com/nafisroni/pkkmb-fmipa.git
+git clone https://github.com/biillskiii/webSS.git
 # make sure you are in the folder
 cd absensi-app
 ```
